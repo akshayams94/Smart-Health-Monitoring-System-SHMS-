@@ -1,5 +1,5 @@
 //1. Backend (Node.js & Express) - API Setup
-This is the core of the backend which will handle requests, data processing, and communication with the database.
+//This is the core of the backend which will handle requests, data processing, and communication with the database.
 // backend/index.js
 const express = require('express');
 const mongoose = require('mongoose');
