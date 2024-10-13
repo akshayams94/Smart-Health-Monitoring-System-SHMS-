@@ -1,0 +1,12 @@
+/Smart-Health-Monitoring-System
+  ├── backend/
+  │     ├── index.js
+  │     ├── routes/
+  │     └── models/
+  ├── frontend/
+  │     ├── src/
+  │     ├── public/
+  ├── ml-module/
+  │     ├── health_prediction.py
+  └── iot-devices/
+        └── heart_rate_sensor.cpp
